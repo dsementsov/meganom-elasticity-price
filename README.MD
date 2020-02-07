@@ -1,5 +1,5 @@
 
-Launch binder: https://mybinder.org/v2/gh/thebarsik/meganom-elasticity/master?filepath=.%2FReport.ipynb
+Launch binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thebarsik/meganom-elasticity/master)
 
 Нажимайте иконку сверху
 Если ноутбук не откроется автоматически вам нужен файл Report.ipynb
