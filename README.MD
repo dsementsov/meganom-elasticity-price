@@ -1,9 +1,9 @@
 
-Launch binder:
+Launch binder: https://mybinder.org/v2/gh/thebarsik/meganom-elasticity/master?filepath=.%2FReport.ipynb
 
+Нажимайте иконку сверху
+Если ноутбук не откроется автоматически вам нужен файл Report.ipynb
 
-вот тут ссылка на интерактивный ноутбук: https://cocalc.com/projects/710ad22c-8d1c-4c68-a774-71ed1f5bbb1d/files/Report.ipynb?session=default
-Там уже есть файл который вы мне скинули
 
 Скажите если будут вопросы или будет что-то не работать.
 
